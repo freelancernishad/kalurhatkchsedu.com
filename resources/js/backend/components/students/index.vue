@@ -268,7 +268,7 @@
             <td style='border:0 !important;padding-left: 15px;'>
                 <p class='fontsize2' style='font-size:30px;    margin-bottom: -10px;'> {{ schoolSettings.SCHOLL_NAME }} </p>
                 <p class='fontsize1' style='font-size:20px;margin-bottom: 2px;'> {{ schoolSettings.SCHOLL_ADDRESS }}  </p>
-                <p class='fontsize1' style='font-size:12px;margin-bottom: 2px;'>website: www.tepriganjhighschool.edu.bd </p>
+               
             </td>
             <td style='border:0 !important'>
                 <label for="fileupload" id="fileChoiceLable">
