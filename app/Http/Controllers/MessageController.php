@@ -30,7 +30,7 @@ curl_setopt_array($curl, array(
   CURLOPT_CUSTOMREQUEST => 'GET',
   CURLOPT_HTTPHEADER => array(
     'Accept: application/json',
-    'Authorization: Bearer 84|BaOz8apODMcnLGbcGSkxa1JLgkmjHOeLGG47kjGc '
+    'Authorization: '
   ),
 ));
 
