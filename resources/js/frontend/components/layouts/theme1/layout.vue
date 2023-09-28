@@ -199,9 +199,9 @@
 
                 <div class="col-md-6 col-lg-4">
                     <p class="fs-5 mb-0  mt-2">পরিকল্পনা ও বাস্তবায়নে: </p>
-                    <p class="mb-0  mt-1">মোঃ আবু ফরহাদ <br>
-                        সহকারী শিক্ষক <br>
-                        {{ schoolSettings.SCHOLL_NAME }}</p>
+                    <p class="mb-0  mt-1">পরিমল চন্দ্র রায় <br>
+                        পরিচালক <br>
+                        কর্ণ কম্পিউটার ট্রেনিং ইনস্টিটিউট</p>
                 </div>
 
 
